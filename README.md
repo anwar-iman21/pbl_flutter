@@ -93,18 +93,11 @@ pbl_flutter/
 └── pubspec.yaml    # Konfigurasi dependency
 ```
 
-## 📸 Screenshot
-
-| Halaman 1 | Halaman 2 |
-|-----------|-----------|
-| ![Screenshot 1](docs/screenshot1.png) | ![Screenshot 2](docs/screenshot2.png) |
-
 ## 👥 Tim Pengembang
 
 | Nama | Peran |
 |------|-------|
-| Anwar Iman | [Developer / Ketua Tim] |
-| [Nama anggota] | [Peran] |
+| Anwar Iman | [Developer ] |
 
 ## 🤝 Kontribusi
 
