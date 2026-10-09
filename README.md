@@ -97,7 +97,7 @@ pbl_flutter/
 
 | Nama | Peran |
 |------|-------|
-| Anwar Iman | [Developer ] |
+| Ahmad Anwarul Iman ALfaqih | [Developer] |
 
 ## 🤝 Kontribusi
 
